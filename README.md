@@ -1,9 +1,10 @@
 # GitColabassignment
+
 Git Collaboration in masai Assignment
 
 
 
-Team name : Masai Titans
+# Team name : Masai Titans
 
 # Contributors
 # fw19_0939	Ritesh Aravindra
